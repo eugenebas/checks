@@ -1,6 +1,6 @@
-#include "../checks.hpp"
+#include "checks.hpp"
 #include "test.h"
-#include <stdexcept>
+#include <exception>
 
 void test_check_throw_false() {
     try {

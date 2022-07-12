@@ -1,4 +1,4 @@
-#include "../checks.h"
+#include "checks.h"
 #include "test.h"
 
 void test_check_ret_false() {
